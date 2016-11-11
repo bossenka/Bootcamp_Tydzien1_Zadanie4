@@ -1,0 +1,12 @@
+h4 {
+  font-family:monospace;
+  font-size: 20px;
+  color: #6584AD;
+}
+li {
+  list-style-type: none;
+}
+li:before {
+  content: "\2605";
+  margin-right: 10px;
+}
